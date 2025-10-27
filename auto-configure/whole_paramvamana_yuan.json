@@ -1,0 +1,38 @@
+{
+    "index_type": {
+        "class": "type",
+        "type": "enum",
+        "default": "Vamana",
+        "enum_values": [
+            "Vamana"
+        ]
+    },
+    "R": {
+        "class": "building",
+        "type": "integer",
+        "default": 64,
+        "min": 32,
+        "max": 150
+    },
+    "L": {
+        "class": "building",
+        "type": "integer",
+        "default": 100,
+        "min": 75,
+        "max": 400
+    },
+    "alpha": {
+        "class": "building",
+        "type": "float",
+        "default": 1.2,
+        "min": 1.0,
+        "max": 1.5
+    },
+    "search_L": {
+        "class": "building",
+        "type": "integer",
+        "default": 10,
+        "min": 10,
+        "max": 300
+    }    
+}

@@ -1,0 +1,31 @@
+{
+    "index_type": {
+        "class": "type",
+        "type": "enum",
+        "default": "hnsw",
+        "enum_values": [
+            "hnsw"
+        ]
+    },
+    "M": {
+        "class": "building",
+        "type": "integer",
+        "default": 32,
+        "min": 18,
+        "max": 64
+    },
+    "ef_construction": {
+        "class": "building",
+        "type": "integer",
+        "default": 500,
+        "min": 100,
+        "max": 1000
+    },
+    "ef": {
+        "class": "building",
+        "type": "integer",
+        "default": 500,
+        "min": 100,
+        "max": 1000
+    }
+}

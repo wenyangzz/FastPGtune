@@ -1,0 +1,73 @@
+{
+    "index_type": {
+        "class": "type",
+        "type": "enum",
+        "default": "NSG",
+        "enum_values": [
+            "NSG"
+        ]
+    },
+    "K": {
+        "class": "building",
+        "type": "integer",
+        "default": 100,
+        "min": 100,
+        "max": 100
+    },
+    "L": {
+        "class": "building",
+        "type": "integer",
+        "default": 100,
+        "min": 100,
+        "max": 100
+    },
+    "I": {
+        "class": "building",
+        "type": "integer",
+        "default": 5,
+        "min": 5,
+        "max": 5
+    },
+    "S": {
+        "class": "building",
+        "type": "integer",
+        "default": 10,
+        "min": 10,
+        "max": 10
+    },
+    "R": {
+        "class": "building",
+        "type": "integer",
+        "default": 100,
+        "min": 100,
+        "max": 100
+    },
+    "nsgL": {
+        "class": "building",
+        "type": "integer",
+        "default": 40,
+        "min": 20,
+        "max": 100
+    },
+    "nsgR": {
+        "class": "building",
+        "type": "integer",
+        "default": 50,
+        "min": 40,
+        "max": 100
+    },
+    "nsgC": {
+        "class": "building",
+        "type": "integer",
+        "default": 500,
+        "min": 400,
+        "max": 600
+    },
+    "search_L": {
+        "class": "building",
+        "type": "integer",
+        "default": 10,
+        "min": 10,
+        "max": 300
+    }
+}

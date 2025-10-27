@@ -1,0 +1,38 @@
+{
+    "index_type": {
+        "class": "type",
+        "type": "enum",
+        "default": "NSG",
+        "enum_values": [
+            "NSG"
+        ]
+    },
+    "nsgL": {
+        "class": "building",
+        "type": "integer",
+        "default": 40,
+        "min": 20,
+        "max": 100
+    },
+    "nsgR": {
+        "class": "building",
+        "type": "integer",
+        "default": 100,
+        "min": 40,
+        "max": 500
+    },
+    "nsgC": {
+        "class": "building",
+        "type": "integer",
+        "default": 500,
+        "min": 200,
+        "max": 800
+    },
+    "search_L": {
+        "class": "building",
+        "type": "integer",
+        "default": 10,
+        "min": 10,
+        "max": 600
+    }
+}
