@@ -119,18 +119,5 @@ If you use FastPGtune in your scientific article, please cite our ICDE 2024 pape
 }
 ```
 
-## Contributors
 
-- Tiannuo Yang yangtn@nbjl.nankai.edu.cn
-- Wangqi Peng pengwq@nbjl.nankai.edu.cn
 
--- From Lab NBJL and Ant Group
-
-## License
-
-[Add appropriate license information here]
-
-## Support
-
-For issues and questions, please contact the maintainers or open an issue in the project repository.
-```
