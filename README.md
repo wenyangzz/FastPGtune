@@ -1,4 +1,3 @@
-```markdown
 # FastPGtune
 
 <div align="center">    
@@ -6,15 +5,14 @@
 
 ---
 
-FastPGtune is tested on a server configured with **Ubuntu 22.04.5** (Linux) and Python 3.11. It supports three graph index algorithms (NSG, HNSW, Vamana) and uses `vector-db-benchmark` for performance evaluation.
+FastPGtune is tested on a server configured with **Ubuntu 22.04.5** (Linux) and Python 3.11. It supports three graph index algorithms (NSG, HNSW, Vamana).
 
-See the preprint at http://arxiv.org/abs/2404.10413
+
 
 ## Dependencies
 
-1. Install benchmark [vector-db-benchmark](https://github.com/qdrant/vector-db-benchmark) from github source.
-2. Install Python 3.11 and necessary package [BoTorch](https://botorch.org/docs/getting_started).
-3. Ensure build tools (e.g., `make`, `gcc`) are installed for compiling binary files.
+1. Install Python 3.11 and necessary package [BoTorch](https://botorch.org/docs/getting_started).
+2. Ensure build tools (e.g., `make`, `gcc`) are installed for compiling binary files.
 
 ## Complete Workflow
 
