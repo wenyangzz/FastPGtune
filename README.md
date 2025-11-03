@@ -5,13 +5,10 @@
 
 ---
 
-FastPGtune is tested on a server configured with **Ubuntu 22.04.5** (Linux) and Python 3.11. The evaluated Vector Database Management System and benchmark is based on `vector-db-benchmark`.  
-
-See the preprint at http://arxiv.org/abs/2404.10413
+FastPGtune is tested on a server configured with **Ubuntu 22.04.5** (Linux) and Python 3.11. 
 
 ## Dependencies
-1. Install benchmark [vector-db-benchmark](https://github.com/qdrant/vector-db-benchmark) from github source.
-2. Install Python 3.11 and necessary package [BoTorch](https://botorch.org/docs/getting_started).
+1. Install Python 3.11 and necessary package [BoTorch](https://botorch.org/docs/getting_started).
    
 ## Preparations
 #### Modify the default engine in benchmark.  
