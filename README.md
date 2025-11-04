@@ -174,18 +174,8 @@ Example log entry:
 
 4. **Performance issues**: If optimization results are unsatisfactory, adjust parameter ranges in the JSON configuration files.
 
-## Citation
 
-If you use FastPGtune in your scientific article, please cite our ICDE 2024 paper:
 
-```plaintext
-@inproceedings{yang2024vdtuner,
-     title={VDTuner: Automated Performance Tuning for Vector Data Management Systems},
-     author={Yang, Tiannuo and Hu, Wen and Peng, Wangqi and Li, Yusen and Li, Jianguo and Wang, Gang and Liu, Xiaoguang},
-     booktitle={2024 IEEE 40th International Conference on Data Engineering (ICDE)},
-     year={2024}
-}
-```
 
 
 
